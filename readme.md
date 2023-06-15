@@ -2,6 +2,9 @@
 
 > Fluent API for Chat Based GPT Model
 
+![jehuty](https://github.com/adityapurwa/jehuty/assets/6219895/15ce8b91-bd3e-464e-90d2-fa3c62ea2e6b)
+
+
 ## Introduction
 
 Jehuty is a fluent API for a chat based GPT model. It can only
